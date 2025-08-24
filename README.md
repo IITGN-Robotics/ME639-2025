@@ -20,13 +20,24 @@ Course Instructor: **@madhuvadali**
 
 ---
 
+
+
+### Tutorial 2- *Creating a ROS Publisher-Subscriber node*
+
+* Write a ROS Publisher node that can generate two random numbers between 1 to 10.
+* Write a ROS Subcriber code that can use these two published numbers and obtain the sum.
+* Run both the nodes, where subsciber node subscribes to the numbers published by the publisher node.
+
+*(See `tutorials/tutorial2` for demo codes.)*
+
+
+---
 ## 🚧 Ongoing Development
 
 This repository is **actively maintained** and will grow with more tutorials as the course progresses. Each tutorial will focus on practical aspects of robotics—ranging from kinematics and control to simulation and real-world integration.
 
 Stay tuned for:
 
-* **Tutorial 2**: (to be announced)
 * **Tutorial 3**: (to be announced)
 
 ---

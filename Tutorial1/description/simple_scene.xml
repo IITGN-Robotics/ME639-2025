@@ -8,7 +8,7 @@
       <geom name="box" type="box" size="0.1 0.05 0.05"
             rgba="1 0 0 1" mass="0.5"
             friction="0.4 0.02 0.02"/>  <!-- lower sliding/rolling -->
-      <site name="force_site" pos="0.1 0.025 0" size="0.01" rgba="0 1 0 1"/>
+      <site name="force_site" pos="0.1 0.0 0" size="0.01" rgba="0 1 0 1"/>
     </body>
   </worldbody>
 </mujoco>

@@ -1,0 +1,9 @@
+<mujoco model="simple_world">
+  <!-- Basic physics options -->
+  <option gravity="0 0 -9.81"/>
+
+  <worldbody>
+    <!-- Light gray ground plane -->
+    <geom name="floor" type="plane" size="2 2 0.1" rgba="0.8 0.8 0.8 1"/>
+  </worldbody>
+</mujoco>

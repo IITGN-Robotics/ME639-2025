@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.ipynb_checkpoints
+.venv/
+env/
+venv/
+ENV/
+*.sqlite3
+
+# Other Cloned Repositories and Descriptions
+robot_descriptions/
+
+# MuJoCo 
+MUJOCO_LOG.TXT
